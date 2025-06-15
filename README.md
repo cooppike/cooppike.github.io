@@ -1,5 +1,4 @@
 # cooppike.github.io
-<!DOCTYPE html>
 <html>
 <head>
     <title>Our Services - Coltivare</title>
