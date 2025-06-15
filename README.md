@@ -33,6 +33,8 @@
 <body>
     <h1>Services at Coltivare</h1>
 
+    <img src="farm_equipment.jpg" alt="Modern Farm Equipment at Coltivare" width="500">
+
     <p>At <span class="highlight">Coltivare</span>, we are dedicated to helping farmers thrive through innovative and sustainable agricultural solutions. Below is an overview of the <u>core services</u> we proudly offer to support the <em>farming community</em>.</p>
 
     <h2>Core Agricultural Services</h2>
