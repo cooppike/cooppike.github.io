@@ -54,7 +54,9 @@
         <li>Ongoing support and outcome monitoring</li>
     </ol>
 
-    <p>For broader industry insights, visit <a href="https://www.agriculture.com/" target="_blank">Agriculture.com</a>.</p>
+    <p>Explore expert farm business strategies from Purdue University at 
+        <a href="https://ag.purdue.edu/commercialag/home/" target="_blank">Purdue Center for Commercial Agriculture</a>.
+    </p>
 
     <p><a href="mailto:contact@coltivare-services.com">Contact Me</a></p>
 
