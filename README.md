@@ -5,7 +5,7 @@
     <style>
         body {
             font-family: 'Verdana', sans-serif;
-            background-color: #f2fbe0;
+            background-color: #F6FAF3;
             margin: 20px;
             color: #2d3e1f;
         }
